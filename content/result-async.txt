@@ -1,0 +1,1 @@
+Here is the result: 'This fist file content.', 'This second file content.'.
